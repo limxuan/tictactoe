@@ -1,4 +1,4 @@
-# tictactoe html
+# calculator html
 - Star my repo if you liked it :)
 
 <div align="center">
